@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
+header:
+	overlay_image: /assets/images/about_me_banner.jpg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Kevin. My generalist approach to problem solving has taken me through a diverse range of experiences which have developed my strong background in electromechanical engineering. I have experience creating a summer camp to teach kids science and engineering, designing an interactive GUI for controlling swarm robotics, debugging and validating power on premium-tier mobile chips, and prototyping robots for applications from animal conservation to medical devices to extraterrestrial exploration.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm currently working as a Validation Engineer at Qualcomm, doing power and thermal analysis of our premium tier mobile chipsets. In my free time, I enjoy wrenching on my '91 Miata, working on side projects, and experimenting with landscape photography.
