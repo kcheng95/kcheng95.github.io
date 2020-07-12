@@ -3,7 +3,7 @@ permalink: /work/
 title: "Work Experience"
 layout: single
 header:
-  overlay_image: /assets/images/poster_presentation.jpeg
+  overlay_image: /assets/images/JPL_Robot.jpg
 ---
 
 ## JPL COLLABORATION
