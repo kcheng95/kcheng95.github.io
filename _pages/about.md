@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
+layout: single
 header:
   overlay_image: /assets/images/about_me_banner.jpg
 ---
