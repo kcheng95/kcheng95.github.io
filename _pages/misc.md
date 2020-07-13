@@ -7,6 +7,7 @@ header:
 ---
 
 ## RAPID PROTOTYPING
+![Pinball](/assets/images/pinball.jpg)
 The objective in this class was to utilize rapid prototyping tools such as CAD, 3D-printers, laser cutters, and tools in order to quickly iterate through designs and create a pinball machine. I decided that for my design, I wanted to create a 2-player competitive machine. Throughout the quarter, I worked to create the design, mechanisms, circuits, and sensors.
 
 Media: [Google Drive](https://drive.google.com/drive/folders/1fABS2E0CciXc3KtVyo715y5jF6cEVzHK?usp=sharing)
@@ -26,6 +27,7 @@ The other half of my time was used for self-guided research into a DIY high-powe
 Media: [Google Drive](https://drive.google.com/drive/folders/1V7daVCDXD9FuSdNaBSdcPJyGo9YNzd3F?usp=sharing)
 
 ## E4E WOLF TRACKER
+![Wolf Tracker](/assets/images/wolf_tracker_2.jpg)
 Engineers 4 Exploration (E4E) is an organization which connects students to scientists, researchers, and explorers in order to help engineer solutions which do not yet exist.
 
 Collaborating with the California Wolf Center, we worked to create a rover which would allow them the researchers to observe the wolves in their sanctuaries in a more natural habitat. Continuous human interaction, or even the presence of a human can slowly change a wild animal's behavior over time. Our goal was to create a remote controlled rover which would be able to traverse the rugged terrain of the enclosure in order to remotely monitor the wolves without disturbing them.
@@ -46,6 +48,7 @@ At the end of our two weeks together, our students had teamed up to build robots
 Media: [Camp 404 - 2012 & 2013](https://ecrchs404.shutterfly.com)
 
 ## ECR ROBOTICS TEAM 404
+![ECR404](/assets/images/ecr404.jpg)
 VEX Robotics is a world-wide robotics competition based around a new game field every year. Team 404 had already won the World Championships the year before I joined, and remained among one of the best teams in the world after. In my time there, we won countless regional competitions, two National Championships, and made it to the semi-finals stage of the Worlds while competing against over 400 other teams from around the world.
 
 During my second year, I became Captain in order to help guide our team to victory. In order to show our strength after winning Worlds, our team expanded and began producing more and more World-Qualified robots each year. As captain, I was responsible for helping design, build, and program as many as six competition robots at a time. Our strength came from not only our dedication and experience, but also from our strong sense as a team. While each robot competed separately and had their own primary drivers, builders, and coaches, we always functioned as a world renowned team sharing both victory and defeat.
