@@ -2,12 +2,11 @@
 layout: splash
 permalink: /
 hidden: true
+title: "Welcome!"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_banner.JPG  
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
+excerpt: “Jack of all trades, master of none, though often better than a master of one.”
 
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
