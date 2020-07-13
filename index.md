@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home_banner.jpeg  
+  overlay_image: /assets/images/home_banner.JPG  
 excerpt: "   "
 ---
 
