@@ -4,19 +4,8 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/poster_presentation.jpeg
-    
-Welcome to my website! 
-
-I'm a mechatronics engineer with a BS in Computer Engineering from UCSD and a background in robotics, rapid prototyping, and much more. Here you can find information about myself, my personal projects, recent work experience, and older life experiences worth noting. 
-
-I'm currently working at Qualcomm as a Power Validation Engineer.
-
-In my free time, I'm working on designing my next project, working on my car, and building out my hands-on experience.    
-    
-   
-    
-    
+  overlay_image: /assets/images/poster_presentation.jpeg  
+excerpt: "   "
 ---
 
 Welcome to my website! 
