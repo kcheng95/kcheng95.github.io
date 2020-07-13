@@ -57,8 +57,13 @@ author:
   name   : "Kevin Cheng"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm an engineer with an interest working with my hands, understanding problems, and designing solutions."
-
-
+  links:
+    - label: "cheng.kevin95@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://drive.google.com/file/d/1d2wHDe8VTsIABP0EkCYCPwzCGgsiFF2-/view?usp=sharing"
+      
 footer:
 
 defaults:
