@@ -11,10 +11,10 @@ Over my first year, I worked with a small team to improve the design of a third-
 
 Once the project was stable, I moved onto the Post-Silicon Power Validation team, focusing on Power validation. My primary role is low-power mode validation, working closely with designers, content teams, and project leads to ensure that the minimum power consumption specs which are presented to customers are met. In addition, my scope has expanded to include power debug, peak power validation, thermal validation, and power-performance analysis.
 
-Snapdragon 855: Low Power Validation.
-Snapdragon 865: Low Power Validation. Power Debug. Peak Power Validation.
-Cloud AI 100: Power Performance Analysis.
-Next-Gen Flagship Mobile SOC: Low Power Validation. Power Debug. Thermal Validation.
+Snapdragon 855: Low Power Validation.\
+Snapdragon 865: Low Power Validation. Power Debug. Peak Power Validation.\
+Cloud AI 100: Power Performance Analysis.\
+Next-Gen Flagship Mobile SOC: Low Power Validation. Power Debug. Thermal Validation.\
 
 ## JPL COLLABORATION
 ![JPL](/assets/images/poster_presentation.jpeg)
@@ -32,4 +32,4 @@ The Advanced Robotics and Controls Lab (ARClab), led by Dr. Michael Yip, focuses
 
 Along with Dmitrii Votintcev, an Electrical Engineering Graduate Student, I have been developing a modular screw-propulsion based endoscopic robot. Conventional endoscopes are designed to be flex and conform as they are inserted deeper into the patient. In order for them to continue past a bend in the colon, the doctor is required to push against the wall until the endoscope is able to progress, causing the patient discomfort. In order to resolve this, we have proposed a screw-propulsion based system which is able to pull itself along by rotating the threads along the robot. By combining this with a modular design, we are able to create a variable-width and length endoscope which can not only traverse more complicated paths than a conventional endoscope, but can also be adapted to it's specific environment.
 
-Media: [Videos] (https://www.youtube.com/playlist?list=PLFY1R0vEwtPdM5Xfj8aLsbBmKZwNSkL5G) [Google Photos](https://photos.app.goo.gl/pJjmkDbmTaZVGzWT8) 
+Media: [Videos](https://www.youtube.com/playlist?list=PLFY1R0vEwtPdM5Xfj8aLsbBmKZwNSkL5G) [Google Photos](https://photos.app.goo.gl/pJjmkDbmTaZVGzWT8) 
