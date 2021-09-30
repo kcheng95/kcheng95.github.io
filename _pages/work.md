@@ -7,14 +7,15 @@ header:
 ---
 
 ## Qualcomm
-Over my first year, I worked with a small team to improve the design of a third-party pick and place machine used for high-volume validation testing. By providing recommendations on mechanical improvements and reverse engineering the original PLC Firmware to fix major bugs and add major QOL sequences, I helped reduce the false-failure rate of the robot from 90% down to <2%.
+Over my first year, I worked with a small team to improve the design of a third-party pick and place machine used for high-volume validation testing. By providing recommendations on mechanical improvements and reverse engineering the original PLC Firmware to fix major bugs and add major QOL sequences, I helped reduce the false-failure rate of the robot from 60% down to <2%.
 
 Once the project was stable, I moved onto the Post-Silicon Power Validation team, focusing on Power validation. My primary role is low-power mode validation, working closely with designers, content teams, and project leads to ensure that the minimum power consumption specs which are presented to customers are met. In addition, my scope has expanded to include power debug, peak power validation, thermal validation, and power-performance analysis.
 
 Snapdragon 855: Low Power Mode (LPM) Validation.  
 Snapdragon 865: LPM Validation. Power Debug. Peak Power Validation.  
+Snapdragon 888: LPM Validation. Power Debug. Thermal Validation.  
 Cloud AI 100: Power Performance Analysis.  
-Next-Gen Flagship Mobile SOC: LPM Validation. Power Debug. Thermal Validation.  
+Next-Gen Flagship Mobile SOC: SVE Post-Si Power and Thermal Debug Lead. High Volume Power Automation.
 
 ## JPL COLLABORATION
 ![JPL](/assets/images/poster_presentation.jpeg)
